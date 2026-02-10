@@ -2,9 +2,9 @@
 
 **Computer Science Student @ Gdańsk University of Technology**
 
-I've spent the last 4+ years working as a **Frontend Developer & UI Designer**.
+I've spent the last 4+ years working as a Frontend Developer & UI Designer.
 <br>
-Currently, I'm shifting my focus to the backend—diving deep into **System Architecture**, **Clean Design Paradigms**, and the **Java ecosystem**.
+Currently, I'm shifting my focus to the **backend** - diving deep into **System Architecture**, **Clean Design Paradigms**, and the **Java ecosystem**.
 <br><br>
 
 ## 🛠️ Tech Stack
