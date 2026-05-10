@@ -4,7 +4,7 @@
 
 Backend-focused Computer Science student at Gdańsk University of Technology specializing in Java and Spring Boot development. Experience building APIs, microservices-based applications, and asynchronous backend systems using Kafka, Docker, and modern backend tooling.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend Development & Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,13 +43,13 @@ Backend-focused Computer Science student at Gdańsk University of Technology spe
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 
-### 🎓 Background & Familiar With
+### Background & Familiar With
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-000000?style=for-the-badge&logo=intel&logoColor=white)
 <br><br>
 
-## 🧠 Concepts & Architecture
+## Concepts & Architecture
 ![System Design](https://img.shields.io/badge/System%20Design-info?style=for-the-badge&logoColor=white&color=20232a)
 ![Microservices](https://img.shields.io/badge/Microservices-info?style=for-the-badge&logoColor=white&color=20232a)
 ![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven%20Design-info?style=for-the-badge&logoColor=white&color=20232a)
@@ -61,6 +61,6 @@ Backend-focused Computer Science student at Gdańsk University of Technology spe
 ![Concurrency](https://img.shields.io/badge/Concurrency-info?style=for-the-badge&logoColor=white&color=20232a)
 <br><br>
 
-## 📫 Connect with me
+## Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/filip-olszewski-116b9337a/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:olszewski.fp@gmail.com)
